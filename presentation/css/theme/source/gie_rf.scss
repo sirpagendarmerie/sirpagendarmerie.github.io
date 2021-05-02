@@ -1,0 +1,67 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+
+
+@import "../../../node_modules/@gouvfr/dsfr/src/core/generated/styles/config";
+@import "../../../node_modules/@gouvfr/dsfr/src/core/generated/styles/icons";
+
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/settings";
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/tools";
+@import "../../../node_modules/@gouvfr/dsfr/src/schemes/styles/settings";
+@import "../../../node_modules/@gouvfr/dsfr/src/schemes/styles/tools";
+
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/reset/tools";
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/reset/settings";
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/reset/schemes";
+@import "../../../node_modules/@gouvfr/dsfr/src/core/styles/reset/module";
+@import "../../../node_modules/@gouvfr/dsfr/dist/css/dsfr.css";
+
+
+$mainFont: font-family();
+$backgroundColor: scheme-element-bg-color(-t-plain);
+$mainColor: $grey-700;
+$linkColor: $blue-france-500;
+$headingFont: font-family();
+$headingColor: $blue-france-500;
+$mainFontSize: 2em;
+$heading1Size: 4.5rem;
+$heading2Size: 3.5rem;
+$heading3Size: 2.5rem;
+
+
+
+
+
+
+@import "../template/theme";
+
+.reveal {
+    .fr-header {
+        p {
+            margin: auto;
+            line-height: line-height();
+        }
+    }
+    ul li::before{
+        content:none;
+    }
+}
+
+
+// ---------------------------------------------
+
+
+
+// Theme template ------------------------------
+
+// ---------------------------------------------

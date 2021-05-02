@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/gie_rf.css" id="theme" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link
+      rel="stylesheet"
+      href="plugin/highlight/monokai.css"
+      id="highlight-theme"
+    />
+  </head>
+  <body>
+    <div class="reveal">
+      <header role="banner" class="fr-header">
+        <div class="fr-header__body">
+          <div class="fr-container">
+            <div class="fr-header__body-row">
+              <div class="fr-header__brand fr-enlarge-link">
+                <div class="fr-header__brand-top">
+                  <div class="fr-header__logo">
+                    <p class="fr-logo">
+                      Ministère
+                      <br />de l'interieur
+                    </p>
+                  </div>
+                </div>
+                <div class="fr-header__service">
+                  <p class="fr-header__service-title">Gendarmerie nationale</p>
+
+                  <p class="fr-header__service-tagline">objectif 2021</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Navigation principale -->
+      </header>
+
+      <div class="slides">
+        <section
+          data-markdown="md/gendarmerie-2022.md"
+          data-separator="^\n---\n"
+          data-vertical="^\n--\n"
+          data-notes="^Note:"
+          data-charset="utf-8"
+        ></section>
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
+</html>
