@@ -18,7 +18,7 @@
 - Un vieux site doté d'un lourd passé (2009)<!-- .element: class="fragment" -->
 - Un design qui ne répond plus aux standards actuels<!-- .element: class="fragment" -->
 - Des besoins de communication qui ont évolués<!-- .element: class="fragment" -->
-- Hormonisation de la communication numérique de l'Etat<!-- .element: class="fragment" -->
+- Harmonisation de la communication numérique de l'Etat<!-- .element: class="fragment" -->
 
 Note:
 Site qui date de la fusion de la gendarmerie avec le Ministère de l'interieur
@@ -38,7 +38,7 @@ Site qui date de la fusion de la gendarmerie avec le Ministère de l'interieur
 ## Les étapes
 
 - Définitions des fonctionnalités (maintenant)<!-- .element: class="fragment" -->
-- Design et UX (maintenant)<!-- .element: class="fragment" -->
+- Identité graphique et architecture UX / UI (maintenant)<!-- .element: class="fragment" -->
 - Conception développement (début courant été)<!-- .element: class="fragment" -->
 - Création des contenus / migration<!-- .element: class="fragment" -->
 - Test / validation des différents échelons<!-- .element: class="fragment" -->
