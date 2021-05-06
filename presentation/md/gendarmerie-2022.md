@@ -16,7 +16,7 @@
 ## Le Context et les contraintes
 
 - Un vieux site doté d'un lourd passé (2009)<!-- .element: class="fragment" -->
-- Un design qui ne répond plus aux standards actuels<!-- .element: class="fragment" -->
+- Une identité visuelle qui ne répond plus aux standards actuels<!-- .element: class="fragment" -->
 - Des besoins de communication qui ont évolués<!-- .element: class="fragment" -->
 - Harmonisation de la communication numérique de l'Etat<!-- .element: class="fragment" -->
 
