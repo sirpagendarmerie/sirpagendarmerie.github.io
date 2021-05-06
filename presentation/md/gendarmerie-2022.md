@@ -17,7 +17,7 @@
 
 - Un vieux site doté d'un lourd passé (2009)<!-- .element: class="fragment" -->
 - Une identité graphique qui ne répond plus aux standards actuels<!-- .element: class="fragment" -->
-- Des besoins de communication qui ont évolués<!-- .element: class="fragment" -->
+- Des besoins de communication qui ont évolué<!-- .element: class="fragment" -->
 - Harmonisation de la communication numérique de l'Etat<!-- .element: class="fragment" -->
 
 Note:
