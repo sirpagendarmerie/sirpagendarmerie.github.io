@@ -39,8 +39,7 @@ Site qui date de la fusion de la gendarmerie avec le ministère de l'Intérieur
 
 - benchmark et définition des besoins des usagers (maintenant)<!-- .element: class="fragment" -->
 - définition des fonctionnalités (maintenant)<!-- .element: class="fragment" -->
-- conception de l'architecture du site<!-- .element: class="fragment" -->
-- identité graphique<!-- .element: class="fragment" -->
+- conception de l'architecture du site / identité graphique<!-- .element: class="fragment" -->
 - conception développement (début courant été)<!-- .element: class="fragment" -->
 - création des contenus/migration<!-- .element: class="fragment" -->
 - test/validation des différents échelons<!-- .element: class="fragment" -->
